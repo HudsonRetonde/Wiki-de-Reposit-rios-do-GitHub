@@ -10,4 +10,9 @@ export default createGlobalStyle`
         background-color: #000000;
         color: #FFFFFF;
     }
+
+    img {
+        width: 80px;
+        heigth: 40vh;
+    }
 `
